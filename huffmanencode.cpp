@@ -2,7 +2,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+/*
+ * 
+ *just test!!
+ *
+ * */
 typedef struct node{
 	int wigth;
 	unsigned int lchild, rchild, parent;
